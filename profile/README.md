@@ -1,3 +1,5 @@
+![Tarn Research — Look beneath the surface.](https://raw.githubusercontent.com/Tarn-Research/.github/main/assets/linkedin-banner.png)
+
 # Tarn Research
 
 ### Look beneath the surface.
