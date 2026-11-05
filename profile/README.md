@@ -1,22 +1,31 @@
-![Tarn Research — Look beneath the surface.](https://raw.githubusercontent.com/Tarn-Research/.github/main/assets/linkedin-banner.png)
+![Tarn Research systematic investment research](https://raw.githubusercontent.com/Tarn-Research/.github/main/assets/linkedin-banner.png)
 
 # Tarn Research
 
-### Look beneath the surface.
+Student-founded research on systematic investment strategies, portfolio construction, and market risk.
 
-Student-founded, independent market and investment strategy research.
+Tarn investigates investment rules using documented data, explicit trading assumptions, reproducible analysis, and plain-language reports. The practice is led by an Elon University student in North Carolina.
 
-We study market risk, investment strategies, and portfolio decisions through reproducible analysis. Each study states its question, sources, assumptions, benchmark, and limitations.
+## Current research
 
-## Research in development
+**TR-001 · Momentum, risk sizing, and diversified ETFs**
 
-- **Market risk notes** measures monthly returns, annualized volatility, and maximum drawdown from a validated CSV.
-- **Strategy studies** compares a lagged moving-average rule with buy-and-hold, including turnover costs.
+A fixed monthly allocation rule compared with 60/40, equal-weight ETFs, and SPY buy-and-hold. The research includes realistic signal delays, buy-and-sell costs, portfolio drift, ablations, sensitivity checks, and a full monthly ledger.
 
-The starter projects are under private review. Their demonstration data is synthetic. Research findings will be shared after source and methodology review.
+The first historical study finds a lower worst month-end drawdown than 60/40 alongside a lower annualized return and Sharpe. These are retrospective hypothetical findings. The initial prospective allocation has been recorded. Completed prospective return observations are currently zero.
+
+The full study is under private review. Public code, data, and report links will be added after release approval and licensing review.
+
+## Planned studies
+
+- Small Bitcoin allocations in diversified portfolios.
+- Volatility-management rules and rebalancing tradeoffs.
 
 ## Research standards
 
-Record data provenance and usage rights. Separate exploratory work from a pre-specified holdout. Include costs, negative results, and a reproducible command. Publish corrections with a dated explanation.
+- Document source provenance, assumptions, and missing evidence.
+- Keep historical simulations separate from prospective model observations.
+- Preserve unsuccessful tests and avoid promoting the best in-sample setting.
+- Publish limitations and correction records alongside results.
 
-Educational and informational research. Historical and simulated results have limitations. Investment involves risk, including loss of capital.
+Tarn is developing its research practice. Investment results are uncertain and historical performance does not establish future profitability.
