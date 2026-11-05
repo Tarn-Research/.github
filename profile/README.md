@@ -4,8 +4,7 @@
 
 Student-founded research on systematic investment strategies, portfolio construction, and market risk.
 
-Tarn investigates investment rules using documented data, explicit trading assumptions, reproducible analysis, and plain-language reports. The practice is led by an Elon University student in North Carolina.
-
+Tarn investigates investment rules using documented data, explicit trading assumptions, reproducible analysis, and plain-language reports.
 ## Current research
 
 **TR-001 · Momentum, risk sizing, and diversified ETFs**
